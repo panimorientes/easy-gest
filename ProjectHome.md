@@ -1,0 +1,1 @@
+Un TPV facil de usar, Gestion de elementos muy basicos de un comercio pequeño.
